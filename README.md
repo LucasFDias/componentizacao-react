@@ -1,4 +1,4 @@
-#Componentizar a aplicação
+# Componentizar a aplicação
 
 ## Estudo sobre componentização no React
 
@@ -22,5 +22,5 @@ Obs: Imagem ilustrando o Content a ser componentizado.
 - Componentizar o Sidebar no arquivo src/components/Sidebar.tsx, utilizando compartilhamento de estado e interfaces em typescript.
 
 ### Sidebar
-obs: Imagem ilustrando o Sidebar a ser componentizado.
+Obs: Imagem ilustrando o Sidebar a ser componentizado.
 <img style='' src='https://user-images.githubusercontent.com/39751095/201425861-7379d6de-9506-4f75-ad55-a4b377020ef4.png' />
