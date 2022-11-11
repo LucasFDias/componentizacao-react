@@ -1,10 +1,9 @@
 # Componentizar a aplicação
 
-## Estudo sobre componentização no React
+- Estudo sobre componentização no React
 
 
-
-## Passos feitos
+## Passos a passo
 
 No componente App.tsx encontrava-se todo o código a ser componetizado, onde encontravam-se a Sidebar de seleção, 
 e a Content com as imagens.
